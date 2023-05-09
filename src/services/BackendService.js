@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const http = axios.create({
-    baseURL: 'https://https://philosophy-app.fly.dev/'
+    baseURL: 'https://philosophy-app.fly.dev/'
 });
 
 export default {
